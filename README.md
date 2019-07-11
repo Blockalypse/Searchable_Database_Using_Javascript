@@ -1,6 +1,6 @@
 
 
-A simple progressive web app allowing for users to search a dataset, filter and display results.  
+###A simple progressive web app allowing for users to search a dataset, filter and display results.  
 
 ## Information about the data 
 The dataset has been converted into an array of JavaScript objects named {data.js}.  It is a UFO sighting dataset that contains information such as: datetime, city, state, country, shape, duration of time in minutes, and comments regarding the UFO sighting. 
